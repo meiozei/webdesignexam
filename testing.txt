@@ -1,0 +1,59 @@
+
+.test1 {
+    padding-top: 5%;
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    text-align: left;
+    margin-left: 10%;
+    padding-top: 10%;
+}
+
+.test2 {
+    padding-top: 5%;
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    text-align: right;
+}
+
+.test3 {
+    padding-top: 5%;
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    text-align: left;
+}
+
+.test4 {
+    padding-top: 5%;
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    text-align: right;
+}
+
+
+.pic1 {
+    display: block;
+    float: right;
+    margin-right: 5%;
+    width: 20%;
+    height: 20%;
+    padding-top: 10%;
+}
+
+.pic2 {
+    display: block;
+    float: left;
+    margin-left: 10%;
+    width: 20%;
+    height: 20%;
+}
+
+.pic3 {
+    display: block;
+    float: right;
+    margin-right: 5%;
+    padding-bottom: 5%;
+    width: 20%;
+    height: 20%;
+}
+
+

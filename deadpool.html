@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <meta charset="en">
+    <meta name="viewport" content="width=device-width, initial-scale 1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Antman</title>
+    <link rel="stylesheet" href="bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="customdeadpool.css" type="text/css">
+</head>
+
+<body>
+    <div id="start">
+        <h1 class="display-2 text-center">ANTMAN</h1>
+    </div>
+    <div class="container-fluid" id="one">
+        <h1 class="display-2 text-center">BASIC INFORMATION</h1>
+        <table class="table table-dark">
+            <thead>
+                <tr>
+                    <th>ABOUT ANT-MAN</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Scott Edward Harris Lang</td>
+                </tr>
+                <tr>
+                    <td>Tiny-Man, Puppy, Giant-Man, etc.</td>
+                </tr>
+                <tr>
+                    <td>Human</td>
+                </tr>
+                <tr>
+                    <td>American</td>
+                </tr>
+                <tr>
+                    <td>Male</td>
+                </tr>
+                <tr>
+                    <td>
+                        56210<br> 121758584
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Vistacorp (formerly)<br> Baskin-Robbins (formerly)<br> X-Con Security Consultants<br> Avengers Logo Avengers</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="yeah">
+        <h1 class="display-2 text-center">HISTORY</h1>
+        <p class="display-4 text-center">Scott Edward Harris Lang is a former criminal who had been convinced by Hank Pym to take on the mantle as Ant Man, in order for them to then prevent Darren Cross from attempting to manipulate the Pym Particles to create extremely weapons, which
+            he would then sell to HYDRA and the Ten Rings.<br><br> Lang was trained up by Hope van Dyne and Pym to master the Ant-Man technology, before he was sent to steal the Yellowjacket Suit from Cross. <br><br>However, their plan was uncovered by
+            Cross, who managed to kidnap Lang's daughter, resulting with a final fight where Ant-Man defeated Cross by sending them both to the Quantum Realm. Ant-Man was able to survive the journey into the Quantum Realm, giving Pym hope that his wife
+            could be saved as Lang returned into his old life, only to be told that the Avengers had learnt of him and began seeking him out...</p>
+    </div>
+    <div id="yeah2">
+        <form class="needs-validation" novalidate>
+            <div class="form-row">
+                <div class="col-md-4 mb-3">
+                    <label for="validationCustom01">First name</label>
+                    <input type="text" class="form-control" id="validationCustom01" placeholder="First name" required>
+                    <div class="valid-feedback">
+                        Looks good!
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label for="validationCustom02">Last name</label>
+                    <input type="text" class="form-control" id="validationCustom02" placeholder="Last name" required>
+                    <div class="valid-feedback">
+                        Looks good!
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <label for="validationCustomUsername">Username</label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="inputGroupPrepend">@</span>
+                        </div>
+                        <input type="text" class="form-control" id="validationCustomUsername" placeholder="Username" aria-describedby="inputGroupPrepend" required>
+                        <div class="invalid-feedback">
+                            Please choose a username.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md-6 mb-3">
+                    <label for="validationCustom03">City</label>
+                    <input type="text" class="form-control" id="validationCustom03" placeholder="City" required>
+                    <div class="invalid-feedback">
+                        Please provide a valid city.
+                    </div>
+                </div>
+                <div class="col-md-3 mb-3">
+                    <label for="validationCustom04">State</label>
+                    <input type="text" class="form-control" id="validationCustom04" placeholder="State" required>
+                    <div class="invalid-feedback">
+                        Please provide a valid state.
+                    </div>
+                </div>
+                <div class="col-md-3 mb-3">
+                    <label for="validationCustom05">Zip</label>
+                    <input type="text" class="form-control" id="validationCustom05" placeholder="Zip" required>
+                    <div class="invalid-feedback">
+                        Please provide a valid zip.
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+                    <label class="form-check-label" for="invalidCheck">
+                  Agree to terms and conditions
+                </label>
+                    <div class="invalid-feedback">
+                        You must agree before submitting.
+                    </div>
+                </div>
+            </div>
+            <button class="btn btn-primary" type="submit"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Submit</a></button>
+        </form>
+
+        <script>
+            // Example starter JavaScript for disabling form submissions if there are invalid fields
+            (function() {
+                'use strict';
+                window.addEventListener('load', function() {
+                    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                    var forms = document.getElementsByClassName('needs-validation');
+                    // Loop over them and prevent submission
+                    var validation = Array.prototype.filter.call(forms, function(form) {
+                        form.addEventListener('submit', function(event) {
+                            if (form.checkValidity() === false) {
+                                event.preventDefault();
+                                event.stopPropagation();
+                            }
+                            form.classList.add('was-validated');
+                        }, false);
+                    });
+                }, false);
+            })();
+        </script>
+    </div>
+
+</body>

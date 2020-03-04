@@ -1,0 +1,27 @@
+.container {
+    background-color: #67595E;
+    color: whitesmoke;
+    font-family: 'Arimo', sans-serif;
+}
+
+.jumbotron {
+    background-color: #67595E;
+}
+.img1 {
+    float: left;
+    margin-right: 2%;   
+    width: 30%;
+    height: 30%;
+}
+
+body {
+    background-color: #EED6D3;
+}
+
+.img2 {
+    display: block;
+    float: right;
+    width: 60%;
+    height: 60%;
+    margin-left: 2%;
+}

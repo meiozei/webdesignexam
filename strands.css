@@ -1,0 +1,237 @@
+#strands h1 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    padding-top: 7%;
+}
+#strands h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+}
+#strands h3 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+#strands p {
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#multimedia h1 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    background-color: #710019;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: whitesmoke;
+    height: 30%;
+    width: 70%;
+    margin-left: 15%;
+    display: inline-block;
+    
+}
+
+#multimedia h2{
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#mmaspec h2{
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+}
+
+#mmaspec p {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#mmacareer h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: right;
+}
+
+#mmacareer p {
+    font-family: 'Oswald', sans-serif;
+    text-align: right;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.pic1 {
+    display: block;
+    float: right;
+    margin-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 40%;
+    height: 40%;
+}
+
+.pic2 {
+    display: block;
+    float: left;
+    margin-left: 10%;
+    padding-bottom: 5%;
+    width: 50%;
+    height: 50%;
+}
+
+.pic3 {
+    display: block;
+    float: right;
+    margin-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 40%;
+    height: 40%;
+}
+
+.pic4 {
+    display: block;
+    float: left;
+    margin-left: 10%;
+    padding-bottom: 5%;
+    width: 50%;
+    height: 50%;
+}
+
+.pic5 {
+    display: block;
+    float: right;
+    margin-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 40%;
+    height: 40%;
+}
+
+.pic6 {
+    display: block;
+    float: left;
+    margin-left: 10%;
+    padding-bottom: 5%;
+    width: 50%;
+    height: 50%;
+}
+
+#animation h1 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    background-color: #710019;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: whitesmoke;
+    height: 30%;
+    width: 70%;
+    margin-left: 15%;
+    display: inline-block;
+}
+
+#animation h2 {
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#animation p {
+    font-family: 'Oswald', sans-serif;
+}
+
+#animspec h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+}
+
+#animespec p {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#animcareer h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: right;
+}
+
+#animcareer p {
+    font-family: 'Oswald', sans-serif;
+    text-align: right;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#compprog h1 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    background-color: #710019;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: whitesmoke;
+    height: 30%;
+    width: 70%;
+    margin-left: 15%;
+    display: inline-block;
+    
+}
+
+#compprog h2{
+    font-family: 'Oswald', sans-serif;
+    display: block;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#compprog p {
+    font-family: 'Oswald', sans-serif;
+}
+
+#progspec h2{
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+}
+
+#progspec p {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#progcareer h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: right;
+}
+
+#progcareer p {
+    font-family: 'Oswald', sans-serif;
+    text-align: right;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#footer a {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 45%;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}

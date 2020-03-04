@@ -1,0 +1,56 @@
+* {box-sizing: border-box;}
+
+#contact{
+    background: url('ciitph.jpg')no-repeat fixed top;
+    background-size: 100%;
+    padding: 20%;
+}
+
+#contact h1 {
+    font-family: 'Oswald', sans-serif;
+    margin-top: 5%;
+    text-align: center;
+    color: #710019 ;
+    font-size: 60px;
+}
+#contact h3 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: #710019;
+    font-size: 50px;
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #391306;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #F1CED4;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #710019;
+  padding: 20px;
+  margin-top: 2%;
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-bottom: 20%;
+  font-family: 'Oswald', sans-serif;
+  color: whitesmoke;
+}

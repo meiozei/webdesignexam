@@ -1,0 +1,27 @@
+#about h1 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+#about h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+}
+#about h3 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+#about p {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    margin-left: 10%;
+}
+#about img {
+    padding-top: 10%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+    height: 40%;
+    padding-bottom: 5%;
+}

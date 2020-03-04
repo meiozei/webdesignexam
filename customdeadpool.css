@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #C85250;
+}
+
+#start {
+    background: url('antman.jpg')no-repeat fixed top;
+    background-size: 100%;
+    padding: 20%;
+}
+
+.display-2 {
+    color: rgb(216, 216, 216);
+    font-weight: bold;
+    text-shadow: 10px 10px #ff0000;
+}
+
+.container-fluid {
+    text-align: center;
+}
+
+#one {
+    background: url('antman2.jpg')no-repeat fixed top;
+    background-size: 100%;
+    padding: 20%;
+}
+
+#yeah {
+    background: url('antman3.jpg')no-repeat fixed top;
+    background-size: 100%;
+    padding: 20%;
+}
+
+.display-4 { 
+     color: rgb(216, 216, 216);
+     font-weight: bold;
+     font-style: italic;    
+     font-size: 35px;
+     text-shadow: 5px 5px #811b1b;
+}
+
+#yeah2 {
+    background: url('antman4.jpg')no-repeat fixed top;
+    background-size: 100%;
+    padding: 20%;
+}
+
+form {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.valid-feedback {
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+    color: rgb(201, 201, 201);
+    text-shadow: 2px 2px #ff0000;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
