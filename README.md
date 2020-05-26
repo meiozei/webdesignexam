@@ -1,2 +1,2 @@
 # webdesignexam
-*screaming in bootstrap*
+3rd Quarterly exam for Web Design
